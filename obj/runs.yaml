@@ -1,0 +1,16 @@
+'2023-05-19T12:36:21.721000':
+  category: GNATprove
+  files:
+  - D:\Ada_Projects\Simple_Program\obj\gnatprove
+  label: Examine All
+  output: 'Phase 1 of 2: generation of Global contracts ...
+
+    Phase 2 of 2: analysis of data and information flow ...
+
+    warning: no bodies have been analyzed by GNATprove
+
+    enable analysis of a non-generic body using SPARK_Mode
+
+    '
+  output_parser: GNATprove_Parser
+  timestamp: '2023-05-19T12:36:21.721000'

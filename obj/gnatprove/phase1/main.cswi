@@ -1,0 +1,7 @@
+20230519173620
+-c
+-x
+ada
+-gnatA
+-gnatc
+-gnates=D:\Ada_Projects\Simple_Program\obj\gnatprove\aa176a6a.tmp
